@@ -2,52 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ankit Gupta</title>
-    <link>https://ankitcodr.github.io/</link>
+    <link>https://ankitgta.github.io/</link>
     <description>Recent content on Ankit Gupta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ankit Gupta</copyright>
-    <lastBuildDate>Tue, 08 Sep 2020 12:16:06 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2020 12:16:06 +0530</lastBuildDate>
     
-	<atom:link href="https://ankitcodr.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ankitgta.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Good Blogs Collection</title>
+      <link>https://ankitgta.github.io/posts/good-blogs/</link>
+      <pubDate>Fri, 11 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/posts/good-blogs/</guid>
+      <description>Good Reads Collection Time to time I come across some really good, well-maintained and well-formatted blogs on the internet. This is a place to pin them:
+Link  https://nibnalin.me/about/   </description>
+    </item>
+    
+    <item>
       <title>AWS Workshops Collection</title>
-      <link>https://ankitcodr.github.io/posts/aws-workshops/</link>
+      <link>https://ankitgta.github.io/posts/aws-workshops/</link>
       <pubDate>Tue, 08 Sep 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitcodr.github.io/posts/aws-workshops/</guid>
+      <guid>https://ankitgta.github.io/posts/aws-workshops/</guid>
       <description>AWS Workshops Collection Recently I am coming across a lot of good free AWS workshops. I am making a list here, so that I can do them and dump my learnings here.
  https://awesome-aws-workshops.com/  </description>
     </item>
     
     <item>
       <title>Good Reads Collection</title>
-      <link>https://ankitcodr.github.io/posts/good-reads/</link>
+      <link>https://ankitgta.github.io/posts/good-reads/</link>
       <pubDate>Tue, 08 Sep 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitcodr.github.io/posts/good-reads/</guid>
+      <guid>https://ankitgta.github.io/posts/good-reads/</guid>
       <description>Good Reads Collection Collecting good articles that I found over the period of time and small summaries about them.
 Imposter Syndrome @ Amazon In this article, an Amazon employee confessed how he shouldn&amp;rsquo;t be hired at Amazon in the first place. He lacked a lot of technical and leadership skills. But over the period of 2 years, he grew himself to be a worthy SDE-2. He did it by collecting constructive feedback from his peers and reflecting on them.</description>
     </item>
     
     <item>
       <title>About Me!</title>
-      <link>https://ankitcodr.github.io/about/</link>
+      <link>https://ankitgta.github.io/about/</link>
       <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitcodr.github.io/about/</guid>
-      <description>Well Hello there, Ankit this side. Welcome to my website/blog/brain-dump. I am a software engineer at Amazon. I am working here since February 2016. I am currently working on AWS Lambda Capacity team.
+      <guid>https://ankitgta.github.io/about/</guid>
+      <description>Introduction Well Hello there, Ankit this side. Welcome to my website/blog/brain-dump. I am a software engineer at Amazon. I am working here since February 2016. I am currently working on AWS Lambda Capacity team.
 I am a life-hacker and believer that machines can help us live more enriched and satisfied life through automation. Sorry to &amp;ldquo;Robot will take our jobs&amp;rdquo; gang but yes &amp;ldquo;Robots will take your job someday&amp;rdquo;. I working day and night to make that happen :D.</description>
     </item>
     
     <item>
       <title>Blogging Begins!!</title>
-      <link>https://ankitcodr.github.io/posts/my-first-post/</link>
+      <link>https://ankitgta.github.io/posts/my-first-post/</link>
       <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitcodr.github.io/posts/my-first-post/</guid>
+      <guid>https://ankitgta.github.io/posts/my-first-post/</guid>
       <description>First Post So I have been trying to start a blog for so long. Precisely 2 long years. Since I started working at Amazon. My rate of learning has gone through the roof. I like gathering new ideas. Researching on them and apply them to my day-to-day life.
 In my humble opinion, this blog is a result of that only. I am a software engineer by profession. So, I am well aware of the fact to make something work through automation rather than just pushing out the door.</description>
     </item>
