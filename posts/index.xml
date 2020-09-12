@@ -52,5 +52,15 @@ Imposter Syndrome @ Amazon In this article, an Amazon employee confessed how he 
 In my humble opinion, this blog is a result of that only. I am a software engineer by profession. So, I am well aware of the fact to make something work through automation rather than just pushing out the door.</description>
     </item>
     
+    <item>
+      <title>Online Ricochet Robots</title>
+      <link>https://ankitgta.github.io/posts/20200912-ricochet-robots/</link>
+      <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/posts/20200912-ricochet-robots/</guid>
+      <description>Ricochet Robots I created a multiplayer online ricochet robots game. Let me know in comments to improve it.
+About Game and Rules  https://www.youtube.com/watch?v=OQOMmftaWAQ  Play  Here: https://ankitgta.github.io/ricochet-robots/  Contribute  Here: https://github.com/ankitgta/ricochet-robots  </description>
+    </item>
+    
   </channel>
 </rss>
