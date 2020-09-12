@@ -1,0 +1,3 @@
+[submodule "ricochet-robots"]
+	path = ricochet-robots
+	url = https://github.com/ankitgta/ricochet-robots.git
