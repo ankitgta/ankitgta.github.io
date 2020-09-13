@@ -7,37 +7,58 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ankit Gupta</copyright>
-    <lastBuildDate>Fri, 11 Sep 2020 12:16:06 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 12:16:06 +0530</lastBuildDate>
     
 	<atom:link href="https://ankitgta.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Emacs Spreadsheet</title>
+      <link>https://ankitgta.github.io/posts/20200912-emacs-spreadsheet/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/posts/20200912-emacs-spreadsheet/</guid>
+      <description>Emacs Spreadsheet Started to use emacs spreadsheet. I will maintain good links and learnings as I use it. So far all my basic usecase to use Google Sheets has been taken care of.
+I must say it is pretty seamless. Thanks Emacs.
+Helpful Links  https://torstensenf.de/html/pages/spreadsheet-in-emacs-with-org-mode.html https://orgmode.org/worg/org-tutorials/org-spreadsheet-intro.html  </description>
+    </item>
+    
+    <item>
+      <title>Online Ricochet Robots</title>
+      <link>https://ankitgta.github.io/posts/20200912-ricochet-robots/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/posts/20200912-ricochet-robots/</guid>
+      <description>Ricochet Robots I created a multiplayer online ricochet robots game. Let me know in comments to improve it.
+About Game and Rules  https://www.youtube.com/watch?v=OQOMmftaWAQ  Play  Here: https://ankitgta.github.io/ricochet-robots/  Contribute  Here: https://github.com/ankitgta/ricochet-robots  </description>
+    </item>
+    
+    <item>
       <title>Good Blogs Collection</title>
-      <link>https://ankitgta.github.io/posts/good-blogs/</link>
+      <link>https://ankitgta.github.io/posts/20200911-good-blogs/</link>
       <pubDate>Fri, 11 Sep 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitgta.github.io/posts/good-blogs/</guid>
+      <guid>https://ankitgta.github.io/posts/20200911-good-blogs/</guid>
       <description>Good Reads Collection Time to time I come across some really good, well-maintained and well-formatted blogs on the internet. This is a place to pin them:
-Link  https://nibnalin.me/about/   </description>
+Link  https://nibnalin.me/about/ https://5harath.com/#projects https://theangelphilosopher.com/home  </description>
     </item>
     
     <item>
       <title>AWS Workshops Collection</title>
-      <link>https://ankitgta.github.io/posts/aws-workshops/</link>
+      <link>https://ankitgta.github.io/posts/20200908-aws-workshops/</link>
       <pubDate>Tue, 08 Sep 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitgta.github.io/posts/aws-workshops/</guid>
+      <guid>https://ankitgta.github.io/posts/20200908-aws-workshops/</guid>
       <description>AWS Workshops Collection Recently I am coming across a lot of good free AWS workshops. I am making a list here, so that I can do them and dump my learnings here.
  https://awesome-aws-workshops.com/  </description>
     </item>
     
     <item>
       <title>Good Reads Collection</title>
-      <link>https://ankitgta.github.io/posts/good-reads/</link>
+      <link>https://ankitgta.github.io/posts/20200908-good-reads/</link>
       <pubDate>Tue, 08 Sep 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitgta.github.io/posts/good-reads/</guid>
+      <guid>https://ankitgta.github.io/posts/20200908-good-reads/</guid>
       <description>Good Reads Collection Collecting good articles that I found over the period of time and small summaries about them.
 Imposter Syndrome @ Amazon In this article, an Amazon employee confessed how he shouldn&amp;rsquo;t be hired at Amazon in the first place. He lacked a lot of technical and leadership skills. But over the period of 2 years, he grew himself to be a worthy SDE-2. He did it by collecting constructive feedback from his peers and reflecting on them.</description>
     </item>
@@ -54,22 +75,12 @@ I am a life-hacker and believer that machines can help us live more enriched and
     
     <item>
       <title>Blogging Begins!!</title>
-      <link>https://ankitgta.github.io/posts/my-first-post/</link>
+      <link>https://ankitgta.github.io/posts/20200418-my-first-post/</link>
       <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
       
-      <guid>https://ankitgta.github.io/posts/my-first-post/</guid>
+      <guid>https://ankitgta.github.io/posts/20200418-my-first-post/</guid>
       <description>First Post So I have been trying to start a blog for so long. Precisely 2 long years. Since I started working at Amazon. My rate of learning has gone through the roof. I like gathering new ideas. Researching on them and apply them to my day-to-day life.
 In my humble opinion, this blog is a result of that only. I am a software engineer by profession. So, I am well aware of the fact to make something work through automation rather than just pushing out the door.</description>
-    </item>
-    
-    <item>
-      <title>Online Ricochet Robots</title>
-      <link>https://ankitgta.github.io/posts/20200912-ricochet-robots/</link>
-      <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
-      
-      <guid>https://ankitgta.github.io/posts/20200912-ricochet-robots/</guid>
-      <description>Ricochet Robots I created a multiplayer online ricochet robots game. Let me know in comments to improve it.
-About Game and Rules  https://www.youtube.com/watch?v=OQOMmftaWAQ  Play  Here: https://ankitgta.github.io/ricochet-robots/  Contribute  Here: https://github.com/ankitgta/ricochet-robots  </description>
     </item>
     
   </channel>
