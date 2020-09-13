@@ -7,9 +7,154 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ankit Gupta</copyright>
+    <lastBuildDate>Sun, 13 Sep 2020 00:55:06 +0539</lastBuildDate>
     
 	<atom:link href="https://ankitgta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Finance</title>
+      <link>https://ankitgta.github.io/tags/finance/</link>
+      <pubDate>Sun, 13 Sep 2020 00:55:06 +0539</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FIRE</title>
+      <link>https://ankitgta.github.io/tags/fire/</link>
+      <pubDate>Sun, 13 Sep 2020 00:55:06 +0539</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/fire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Retirement</title>
+      <link>https://ankitgta.github.io/tags/retirement/</link>
+      <pubDate>Sun, 13 Sep 2020 00:55:06 +0539</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/retirement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emacs</title>
+      <link>https://ankitgta.github.io/tags/emacs/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/emacs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Games</title>
+      <link>https://ankitgta.github.io/tags/games/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>https://ankitgta.github.io/tags/github/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://ankitgta.github.io/tags/javascript/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orgmode</title>
+      <link>https://ankitgta.github.io/tags/orgmode/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/orgmode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spreadsheet</title>
+      <link>https://ankitgta.github.io/tags/spreadsheet/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/spreadsheet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://ankitgta.github.io/tags/blog/</link>
+      <pubDate>Fri, 11 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>https://ankitgta.github.io/tags/reading/</link>
+      <pubDate>Fri, 11 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/reading/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://ankitgta.github.io/tags/software/</link>
+      <pubDate>Fri, 11 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AWS</title>
+      <link>https://ankitgta.github.io/tags/aws/</link>
+      <pubDate>Tue, 08 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Workshops</title>
+      <link>https://ankitgta.github.io/tags/workshops/</link>
+      <pubDate>Tue, 08 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/workshops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://ankitgta.github.io/tags/hugo/</link>
+      <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jekyll</title>
+      <link>https://ankitgta.github.io/tags/jekyll/</link>
+      <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/tags/jekyll/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

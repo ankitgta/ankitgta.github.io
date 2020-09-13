@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spreadsheet on Ankit Gupta</title>
+    <link>https://ankitgta.github.io/tags/spreadsheet/</link>
+    <description>Recent content in Spreadsheet on Ankit Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ankit Gupta</copyright>
+    <lastBuildDate>Sat, 12 Sep 2020 12:16:06 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankitgta.github.io/tags/spreadsheet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Emacs Spreadsheet</title>
+      <link>https://ankitgta.github.io/posts/20200912-emacs-spreadsheet/</link>
+      <pubDate>Sat, 12 Sep 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/posts/20200912-emacs-spreadsheet/</guid>
+      <description>Emacs Spreadsheet Started to use emacs spreadsheet. I will maintain good links and learnings as I use it. So far all my basic usecase to use Google Sheets has been taken care of.
+I must say it is pretty seamless. Thanks Emacs.
+Helpful Links  https://torstensenf.de/html/pages/spreadsheet-in-emacs-with-org-mode.html https://orgmode.org/worg/org-tutorials/org-spreadsheet-intro.html  </description>
+    </item>
+    
+  </channel>
+</rss>

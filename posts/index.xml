@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ankit Gupta</copyright>
-    <lastBuildDate>Sat, 12 Sep 2020 12:16:06 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 00:55:06 +0539</lastBuildDate>
     
 	<atom:link href="https://ankitgta.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>FIRE yourself</title>
+      <link>https://ankitgta.github.io/posts/20200913-fire-first-step/</link>
+      <pubDate>Sun, 13 Sep 2020 00:55:06 +0539</pubDate>
+      
+      <guid>https://ankitgta.github.io/posts/20200913-fire-first-step/</guid>
+      <description>What is FIRE Let&amp;rsquo;s first start by defining FIRE. It is short for &amp;ldquo;Financial Independence Retire Early&amp;rdquo;. This is sort of an internet movement where people save until their very last penny. Invest that money wisely in a retirement account. Constantly track their progress and growth towards their goals. And when it is time, they say FU to their bosses and FIRE themselves from their job.
+Who it is for It is for anyone who has a day-job and wants to not be in the same place for their entire life.</description>
+    </item>
     
     <item>
       <title>Emacs Spreadsheet</title>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jekyll on Ankit Gupta</title>
+    <link>https://ankitgta.github.io/tags/jekyll/</link>
+    <description>Recent content in Jekyll on Ankit Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Ankit Gupta</copyright>
+    <lastBuildDate>Sat, 18 Apr 2020 12:16:06 +0530</lastBuildDate>
+    
+	<atom:link href="https://ankitgta.github.io/tags/jekyll/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blogging Begins!!</title>
+      <link>https://ankitgta.github.io/posts/20200418-my-first-post/</link>
+      <pubDate>Sat, 18 Apr 2020 12:16:06 +0530</pubDate>
+      
+      <guid>https://ankitgta.github.io/posts/20200418-my-first-post/</guid>
+      <description>First Post So I have been trying to start a blog for so long. Precisely 2 long years. Since I started working at Amazon. My rate of learning has gone through the roof. I like gathering new ideas. Researching on them and apply them to my day-to-day life.
+In my humble opinion, this blog is a result of that only. I am a software engineer by profession. So, I am well aware of the fact to make something work through automation rather than just pushing out the door.</description>
+    </item>
+    
+  </channel>
+</rss>
