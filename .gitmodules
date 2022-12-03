@@ -1,3 +1,6 @@
 [submodule "ricochet-robots"]
 	path = ricochet-robots
 	url = https://github.com/ankitgta/ricochet-robots.git
+[submodule "knees-over-toes"]
+	path = knees-over-toes
+	url = git@github.com:ankitgta/knees-over-toes.git
