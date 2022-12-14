@@ -1,140 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://ankitgta.github.io/</loc>
     <lastmod>2020-09-13T00:55:06+05:39</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/finance/</loc>
     <lastmod>2020-09-13T00:55:06+05:39</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/fire/</loc>
     <lastmod>2020-09-13T00:55:06+05:39</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/20200913-fire-first-step/</loc>
     <lastmod>2020-09-13T00:55:06+05:39</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/</loc>
     <lastmod>2020-09-13T00:55:06+05:39</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/retirement/</loc>
     <lastmod>2020-09-13T00:55:06+05:39</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/</loc>
     <lastmod>2020-09-13T00:55:06+05:39</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/emacs/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/20200912-emacs-spreadsheet/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/games/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/github/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/javascript/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/20200912-ricochet-robots/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/orgmode/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/spreadsheet/</loc>
     <lastmod>2020-09-12T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/blog/</loc>
     <lastmod>2020-09-11T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/20200911-good-blogs/</loc>
     <lastmod>2020-09-11T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/reading/</loc>
     <lastmod>2020-09-11T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/software/</loc>
     <lastmod>2020-09-11T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/aws/</loc>
     <lastmod>2020-09-08T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/20200908-aws-workshops/</loc>
     <lastmod>2020-09-08T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/20200908-good-reads/</loc>
     <lastmod>2020-09-08T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/workshops/</loc>
     <lastmod>2020-09-08T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/about/</loc>
     <lastmod>2020-04-18T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/posts/20200418-my-first-post/</loc>
     <lastmod>2020-04-18T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/hugo/</loc>
     <lastmod>2020-04-18T12:16:06+05:30</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://ankitgta.github.io/tags/jekyll/</loc>
     <lastmod>2020-04-18T12:16:06+05:30</lastmod>
   </url>
-  
 </urlset>
